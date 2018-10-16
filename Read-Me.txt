@@ -1,0 +1,1 @@
+Run the randm.py file first, it will take the input size from user and create random numbers for input for all the 4 algos, so that the data set remains same.
