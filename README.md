@@ -13,9 +13,9 @@ Execution  instructions:
 		Numbers are randomly  generated for the input array.  
 		Execution time is recorded and average is taken.   
 		Graphs are plotted based on the input size and sorting algorithms and are compared with each other for the same data set.
-	
-	2. In  addition, performance is observed and presented of  the  following  two  special  cases:  a.Input  array  is  already  sorted.  
-	b.Input  array  is  inversely  sorted.  
+	2. In addition, performance is observed and presented of  the  following  two special cases:  
+		a.Input array is already sorted.  
+		b.Input array is inversely sorted.  
 
 Language used here is Python.	
 
