@@ -6,7 +6,8 @@ Here I have implemented
 3.In-place  quicksort  (any  random  item  or  the  first  or  the  last  item  of  your  input  can  be  pivot).  
 4.Modified  quicksort  
 	a.Use  median-of-three  as  pivot.
-	b.For  small  subproblem  size  (),  you  must  use  insertion  sort.
+	b.For  small  subproblem  size (),  you  must  use  insertion  sort.
+5. I have also added the file randm. This will ask the user for the input size and create an array of randomly generated numbers of the given size and the same array will be used for sorting in all the 4 sorting algorithms for better comparision of the output times.
 
 Execution  instructions:  
 	
